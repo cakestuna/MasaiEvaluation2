@@ -1,0 +1,16 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+
+ul{display: flex;
+justify-content: right;
+margin-right: 100px;
+gap: 10px;}
+
+li{
+    list-style: none;
+}
+li a{
+    font-weight: bold;
+    
+}
